@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remake</string>
+    <string name="start">Start</string>
+    <string name="button_send" />
+</resources>
